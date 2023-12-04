@@ -1,2 +1,2 @@
 # tensorrt_smgv
-tensorr支持smgv算法开发测试。
+tensorr支持smgv算法开发测试.
